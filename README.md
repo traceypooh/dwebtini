@@ -2,6 +2,10 @@
 
 A decentralized demo of https://blogtini.com/ where posts can be stored anywhere.
 
+*You can see it here:*
+
+https://traceypooh.github.io/dwebtini/
+
 
 ## Sample Decentralized Posts
 - https://ipfs.io/ipfs/QmTodePjMk2oksHbRDJ13EJeFbaeBSCheLv7AQfwTh2281?filename=index.html
@@ -9,4 +13,8 @@ A decentralized demo of https://blogtini.com/ where posts can be stored anywhere
 
 
 ## Helpful links
-https://docs.ipfs.tech/how-to/websites-on-ipfs/single-page-website/
+- https://docs.ipfs.tech/how-to/websites-on-ipfs/single-page-website/
+
+## Storage links
+- https://us1.storj.io/buckets/upload/
+- https://web3.storage/account/
